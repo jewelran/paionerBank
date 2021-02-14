@@ -1,0 +1,53 @@
+body {
+    padding: 100px;
+}
+
+.submit_area {
+    margin-top: 50px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 30px gray;
+    padding: 20px;
+}
+
+input {
+    width: 98%;
+    border: none;
+    box-shadow: 2px 2px 20px gray;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#transection {
+    display: none;
+}
+
+.statas {
+    margin: 10px 20px;
+    padding: 7px;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+}
+
+.deposit {
+    background-color: slateblue;
+}
+
+.withdraw {
+    background-color: #F19671;
+}
+
+.balance {
+    background-color: orange;
+}
+
+.input-area {
+    box-shadow: 5px 5px 30px slategrey;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 10px;
+}
+
+.transection-container {
+    margin-top: 30px;
+}
